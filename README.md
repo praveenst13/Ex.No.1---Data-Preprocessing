@@ -87,3 +87,9 @@ print(len(x_test))
 ![image](https://github.com/Ragu-123/Ex.No.1---Data-Preprocessing/assets/113915622/2803422c-0f3e-487a-ba7e-8e263e1e0adc)
 ## split the dataset for training and testing
 ![image](https://github.com/Ragu-123/Ex.No.1---Data-Preprocessing/assets/113915622/69849559-9f53-47a1-a895-0968de260afb)
+
+
+
+## RESULT
+Hence, the Data preprocessing is performed over a data set successfully.
+
